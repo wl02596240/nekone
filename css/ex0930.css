@@ -1,6 +1,6 @@
 body{
     width: 800px;
-    background-color: lightpink url('../images/body_bg.gif') repeat-x top;
+    background: lightpink url('../images/body_bg.gif') repeat-x top;
     font-family: 'Courier New', Courier, monospace;
     font-size: 1em;
     color: black;
